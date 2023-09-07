@@ -4,9 +4,11 @@ Web Crawer
 
 ## Available Scripts
 
-### `npm run dev`
+Steps:
 
-Run the server in development mode.
+`npm install`
+
+`npm run dev`
 
 **Available APIs**
 
